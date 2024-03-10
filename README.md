@@ -2,7 +2,7 @@
 
 ##### I'm a 23 year old developer from Newcastle Upon Tyne, England. I extremely passionate about Web Devlopment, Software Development and Cyber Security.
 
-## **Toolbox**
+## **Toolbox** 🥊
 ##### Frontend Development: `React` `Next.js` `TypeScript` `Tailwind` `ShadCn`
 ##### Backend Development: `Prisma` `MySQL` `Stripe`
 ##### Coding Languages: `Java` `JavaScript` `HTML` `CSS` `Python` `MatLab`
@@ -30,6 +30,7 @@
 ##### - Visted 18 Countries in 3 Continents!
 ##### - Favourite Sports: Football and Rugby (Howay the lads)
 ##### - As a kid I wanted to be a Dentist (Look at me now!)
+##### - I have had a boxing match!
 
 ## **Contact 📫**
 
