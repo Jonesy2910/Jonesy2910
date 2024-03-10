@@ -12,24 +12,24 @@ Other: `Zustand`
 
 ### I’m currently learning 🌻
 
-..* I'm developing my understanding about Cloud Computing
-..* Rejogging my memory on Object-Orientated Programming
-..* How to deal with clients!
+  - I'm developing my understanding about Cloud Computing
+  - Rejogging my memory on Object-Orientated Programming
+  - How to deal with clients!
 
 ### I’m currently working on 🔭
 
-..* Creating a portfolio for myself!
-..* Learning Python through Udacity
+  - Creating a portfolio for myself!
+  - Learning Python through Udacity
 
 ### I’m looking for help with 🤔
 
-..* The right direction to develop my career!
+  - The right direction to develop my career!
 
 ### Fun Facts 🥑
 
-..* Visted 18 Countries in 3 Continents!
-..* Favourite Sports: Football and Rugby (Howay the lads)
-..* As a kid I wanted to be a Dentist (Look at me now!)
+  - Visted 18 Countries in 3 Continents!
+  - Favourite Sports: Football and Rugby (Howay the lads)
+  - As a kid I wanted to be a Dentist (Look at me now!)
 
 ### Contact 📫
 
