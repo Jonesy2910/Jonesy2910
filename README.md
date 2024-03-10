@@ -4,10 +4,15 @@ I'm a 23 year old developer from Newcastle Upon Tyne, England. I extremely passi
 
 ## Toolbox 🥊
 **Frontend Development:** `React` `Next.js` `TypeScript` `Tailwind` `ShadCn`
+
 **Backend Development:** `Prisma` `MySQL` `Stripe`
+
 **Coding Languages:** `Java` `JavaScript` `HTML` `CSS` `Python` `MatLab`
+
 **Version Control:** `GitHub` `Git`
+
 **Testing:** `JUnit`
+
 **Other:** `Zustand`
 
 ## **I’m currently learning 🌻**
