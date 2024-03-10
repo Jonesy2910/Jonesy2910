@@ -1,16 +1,37 @@
-### Hi there 👋
+### Hi, I'm Dan! 👋
 
-<!--
-**Jonesy2910/Jonesy2910** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a 23 year old developer from Newcastle Upon Tyne, England. I extremely passionate about Web Devlopment, Software Development and Cyber Security.
 
-Here are some ideas to get you started:
+### Toolbox
+Frontend Development: `React` `Next.js` `TypeScript` `Tailwind` `ShadCn`
+Backend Development: `Prisma` `MySQL` `Stripe`
+Coding Languages: `Java` `JavaScript` `HTML` `CSS` `Python` `MatLab`
+Version Control: `GitHub` `Git`
+Testing: `JUnit`
+Other: `Zustand`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### I’m currently learning 🌻
+
+..* I'm developing my understanding about Cloud Computing
+..* Rejogging my memory on Object-Orientated Programming
+..* How to deal with clients!
+
+### I’m currently working on 🔭
+
+..* Creating a portfolio for myself!
+..* Learning Python through Udacity
+
+### I’m looking for help with 🤔
+
+..* The right direction to develop my career!
+
+### Fun Facts 🥑
+
+..* Visted 18 Countries in 3 Continents!
+..* Favourite Sports: Football and Rugby (Howay the lads)
+..* As a kid I wanted to be a Dentist (Look at me now!)
+
+### Contact 📫
+
+Please contact me on either [LinkedIn](https://www.linkedin.com/in/daniel-jones-a4a85b23a/) or [E-Mail](mailto:dan_jones1107@hotmail.com?subject=[GitHub]%20Enquiry%20From%20GitHub)
+
