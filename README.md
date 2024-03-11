@@ -26,9 +26,10 @@ I'm a 23-year-old developer from Newcastle Upon Tyne, England. I am extremely pa
 - Creating a **portfolio** for myself!
 - Learning Python through Udacity
 
-## **I’m looking for help with** 🤔
+## **Future Projects I am going to do** 🤔
 
-- The right direction to develop my career!
+- Create a new website for my family business
+- Create a website for my friends band
 
 ## **Fun Facts** 🥑
 
