@@ -1,6 +1,6 @@
 ## **Hi, I'm Dan!** 👋
 
-I'm a 23-year-old developer from Newcastle Upon Tyne, England. I am extremely passionate about Web development, Software Development and Cyber Security.
+I'm a 23-year-old developer from Newcastle Upon Tyne, England. I am incredibly passionate about Web development, Software Development and Cyber Security.
 
 ## Toolbox 🥊
 **Frontend Development:** `React` `Next.js` `TypeScript` `Tailwind` `ShadCn`
@@ -17,7 +17,7 @@ I'm a 23-year-old developer from Newcastle Upon Tyne, England. I am extremely pa
 
 ## **I’m currently learning** 🌻
 
-- I'm developing my understanding about Cloud Computing
+- I'm developing my understanding of Cloud Computing
 - Rejogging my memory on Object-Orientated Programming
 - How to deal with clients!
 
@@ -29,13 +29,13 @@ I'm a 23-year-old developer from Newcastle Upon Tyne, England. I am extremely pa
 ## **Future Projects I am going to do** 🤔
 
 - Create a new website for my family business
-- Create a website for my friends band
+- Create a website for my friend's band
 
 ## **Fun Facts** 🥑
 
-- Visted 18 Countries in 3 Continents!
+- Visited 18 Countries in 3 Continents!
 - Favourite Sports: Football and Rugby **(Howay the lads ⚫⚪)**
-- As a kid I wanted to be a Dentist (Look at me now!)
+- As a kid, I wanted to be a Dentist (Look at me now!)
 - I have had a boxing match!
 
 ## **Contact** 📫
