@@ -15,21 +15,25 @@ I'm a 23-year-old developer from Newcastle Upon Tyne, England. I am incredibly p
 
 **Other:** `Zustand`
 
+## Courses Completed 📚
+
+Udacity: Introduction to Python - Beginner
+
 ## **I’m currently learning** 🌻
 
 - I'm developing my understanding of Cloud Computing
 - Rejogging my memory on Object-Orientated Programming
-- How to deal with clients!
 
 ## **I’m currently working on** 🔭
 
 - Creating a **portfolio** for myself!
-- Learning Python through Udacity
+- Creating Wordle!
 
 ## **Future Projects I am going to do** 🤔
 
 - Create a new website for my family business
 - Create a website for my friend's band
+- Connections from NYT Games
 
 ## **Fun Facts** 🥑
 
