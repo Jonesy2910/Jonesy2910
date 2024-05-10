@@ -15,6 +15,8 @@ I'm a 23-year-old developer from Newcastle Upon Tyne, England. I am incredibly p
 
 **Other:** `Zustand`
 
+**Java:** `BouncyCastle` `MySQL` 
+
 ## Courses Completed 📚
 
 Udacity: Introduction to Python - Beginner
@@ -26,20 +28,18 @@ Udacity: Introduction to Python - Beginner
 
 ## **I’m currently working on** 🔭
 
-- Creating a **portfolio** for myself!
-- Creating Wordle!
+- Creating Wordle
+- Football Analytics
 
 ## **Future Projects I am going to do** 🤔
 
 - Create a new website for my family business
-- Create a website for my friend's band
 - Connections from NYT Games
 
 ## **Fun Facts** 🥑
 
 - Visited 18 Countries in 3 Continents!
 - Favourite Sports: Football and Rugby **(Howay the lads ⚫⚪)**
-- As a kid, I wanted to be a Dentist (Look at me now!)
 - I have had a boxing match!
 
 ## **Contact** 📫
